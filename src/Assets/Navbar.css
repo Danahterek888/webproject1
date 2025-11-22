@@ -1,0 +1,24 @@
+.navbar {
+  background-color: #FFD8EA;
+  color: #FFF6F3;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar a {
+  color: #4B3351;
+  text-decoration: none;
+  margin-left: 25px;
+  padding-right: 30px;
+  font-weight: bold;
+}
+.navbar a:hover {
+  text-decoration: underline;
+}
+.logo-img {
+  height: 50px;
+  width: auto;
+  padding-left: 30px;
+}
+
